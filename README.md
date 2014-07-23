@@ -7,4 +7,4 @@ Pico is a stupidly simple, blazing fast, flat file CMS. See http://picocms.org/ 
 
 ### Info:
 
-This is my site ![besutra](http://www.besutra.com)done with the Picocms. Stupidly simple.
+This is my site http://www.besutra.com done with the Picocms. Stupidly simple.
